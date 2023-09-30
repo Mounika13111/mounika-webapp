@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mounika-webapp3-jpnce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B7690F41951426DB6117199D6057A6F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9BDA34B26434122971D29EEB5F3AB76 }}
